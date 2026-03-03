@@ -20,12 +20,12 @@
 
 OLED 成本高 LCD 對比度受限
 
-Mini LED 可：
+Mini LED 可以
 
 提升亮度\
 強化 Local Dimming\
 提升 HDR 效果\
-降低成本風險\
+降低成本風險
 
 ## PPI 與人眼解析度
 
