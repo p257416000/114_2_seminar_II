@@ -6,15 +6,7 @@
 
 3/17 [The Development and Applications of BioImpedance Technology](https://github.com/p257416000/114_2_seminar_II/blob/main/The%20Development%20and%20Applications%20of%20BioImpedance%20Technology.md)
 
-3/31 [如何打造台版 Edge Impulse TinyML 開發平台]()
-
-4/7 []()
-
-4/21 []()
-
-4/28 []()
-
-5/12 []()
-
 5/26 [AI影像科技在睡眠檢測的應用](https://github.com/p257416000/114_2_seminar_II/blob/main/AI%E5%BD%B1%E5%83%8F%E7%A7%91%E6%8A%80%E5%9C%A8%E7%9D%A1%E7%9C%A0%E6%AA%A2%E6%B8%AC%E7%9A%84%E6%87%89%E7%94%A8.md)
 ## 書面報告
+
+5/4 [群眾感測技術與應用案例]()
